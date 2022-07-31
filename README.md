@@ -170,6 +170,12 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 ## Application
 
+### 2022
+
++	**Learning Large-scale Universal User Representation with Sparse Mixture of Experts** [[pdf]](https://arxiv.org/abs/2207.04648) ICML 2022
+
+	*Caigao Jiang, Siqiao Xue, James Zhang, Lingyue Liu, Zhibo Zhu, Hongyan Hao*
+	
 ### 2021
 
 +	**Video Recommendation with Multi-gate Mixture of Experts Soft Actor Critic** [[pdf](https://dl.acm.org/doi/abs/10.1145/3397271.3401238)] SIGIR 2021
