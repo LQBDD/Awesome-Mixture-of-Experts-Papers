@@ -161,6 +161,9 @@ Thanks to all the people who made contributions to this project. We strongly enc
   
 	*Xiaonan Nie, Pinxue Zhao, Xupeng Miao, Tong Zhao, Bin Cui*
 
++	**Tutel: Adaptive Mixture-of-Experts at Scale** [[pdf]](https://arxiv.org/abs/2206.03382) arXiv 2022
+
+	*Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, Joe Chau, Peng Cheng, Fan Yang, Mao Yang, Yongqiang Xiong*
 
 ### 2021
 
