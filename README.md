@@ -65,6 +65,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 + **MoEC: Mixture of Expert Clusters**[[pdf]](https://arxiv.org/abs/2207.09094) arXiv 2022
 
 	*Yuan Xie, Shaohan Huang, Tianyu Chen, Furu Wei*
+	
++	**On the Representation Collapse of Sparse Mixture of Experts** [[pdf]](https://arxiv.org/abs/2204.09179) arXiv 2022
+
+	*Zewen Chi, Li Dong, Shaohan Huang, Damai Dai, Shuming Ma, Barun Patra, Saksham Singhal, Payal Bajaj, Xia Song, Furu Wei*
 
 ### 2021
 	
