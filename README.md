@@ -62,7 +62,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Fuzhao Xue, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You*
 
-+	**MoEC: Mixture of Expert Clusters**[[pdf]](https://arxiv.org/abs/2207.09094) arXiv 2022
++ **MoEC: Mixture of Expert Clusters**[[pdf]](https://arxiv.org/abs/2207.09094) arXiv 2022
 
 	*Yuan Xie, Shaohan Huang, Tianyu Chen, Furu Wei*
 	
